@@ -1,0 +1,53 @@
+.col-sm-12 {
+    padding: 0%;
+}
+
+.col-lg-6 {
+    padding: 0%;
+}
+
+.card-body {
+    padding: 40px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+.color-blue {
+    color: #2BB3B1;
+}
+
+.color-green {
+    color: #BFDF33;
+}
+
+.button {
+    padding: 15px;
+    width: 15rem;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.btn-primary {
+    background-color: #BFDF33;
+    border-color: #BFDF33;
+}
+
+.nony {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+span {
+    font-size: 40px;
+}
+
+.bg-custom1 {
+    background-color: #2BB3B1;
+}
+
+.bg-custom2 {
+    background-color: #4ABEBD;
+}
